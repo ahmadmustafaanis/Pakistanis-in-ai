@@ -270,5 +270,23 @@
         ],
         "citedby": 33658,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Fahad Shamshad",
+        "affiliation": "MBZUAI",
+        "position": "Computer Vision and Medical Imaging Researcher@MBZUAI",
+        "hindex": 10,
+        "photo": "./assets/images/fahd_s.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/fahad-khan-25b3006/",
+        "website": "https://fahadshamshad.github.io/",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "Medical Imaging"
+        ],
+        "citedby": 496,
+        "lastupdate": "2023-08-14"
     }
 ]
