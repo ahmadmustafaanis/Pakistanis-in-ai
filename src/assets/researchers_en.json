@@ -248,5 +248,27 @@
         ],
         "citedby": 228,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Fahad Shahbaz Khan",
+        "affiliation": "MBZUAI, Linköping University Sweden",
+        "position": "Senior Researcher, Assistant Professor",
+        "hindex": 78,
+        "photo": "./assets/images/fahd.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/fahad-khan-25b3006/",
+        "website": "https://sites.google.com/view/fahadkhans/home?authuser=0",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "MultiModal Deep Learning",
+            "Self-Supervised Deep Learning",
+            "Object Detection",
+            "Object Tracking",
+            "Object Segmentation"
+        ],
+        "citedby": 33658,
+        "lastupdate": "2023-08-14"
     }
 ]
