@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { IResearcher } from '../researchers';
 import people from '../../assets/researchers_en.json';
 import { FilterService } from '../filter.service';
+import { IResearcher } from '../researchers';
 
 @Component({
   selector: 'app-english',
@@ -10,11 +10,11 @@ import { FilterService } from '../filter.service';
 })
 
 export class EnglishComponent implements OnInit {
-  
-  title = 'Egyptians in AI';
+
+  title = 'Pakistanis in AI';
   researchers: IResearcher[] = people;
-  rinterests: {[key: string]: boolean} = {};
-  rinterestsFreq: {[key: string]: number} = {};
+  rinterests: { [key: string]: boolean } = {};
+  rinterestsFreq: { [key: string]: number } = {};
   profiles = this.researchers;
   searchQuery = "";
   en_active: boolean = true;
@@ -22,7 +22,7 @@ export class EnglishComponent implements OnInit {
   constructor(private filterService: FilterService) {
     [this.rinterests, this.rinterestsFreq] = this.filterService.getResearchIntersts(people);
     this.sortShuffle();
-   }
+  }
 
   ngOnInit(): void {
   }
@@ -34,7 +34,7 @@ export class EnglishComponent implements OnInit {
   sortHIndex() {
     this.researchers = this.filterService.sortHIndex(people);
   }
-  
+
   sortCitations() {
     this.researchers = this.filterService.sortCitations(people);
   }
@@ -43,7 +43,7 @@ export class EnglishComponent implements OnInit {
     this.researchers = this.filterService.sortShuffle(people);
   }
 
-  filterProfiles(event:any) {
+  filterProfiles(event: any) {
     let query: string = event.target.value.toLowerCase();
     this.researchers = this.filterService.filterProfiles(query, people);
   }
@@ -58,7 +58,7 @@ export class EnglishComponent implements OnInit {
       this.rinterests[key] = true;
     }
     this.researchers = this.profiles;
-  }  
+  }
 
   clearAllInterests() {
     for (let key in this.rinterests) {

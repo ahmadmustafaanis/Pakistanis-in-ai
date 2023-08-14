@@ -1,30 +1,31 @@
 <script>
-  $(document).ready(function() {
+  $(document).ready(function () {
     $(".dropdown-toggle").dropdown();
-});
+  });
 </script>
 
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" [hidden]="!en_active">
   <div class="container">
-    <a class="navbar-brand" style="font-size: 2em">Egyptians in AI Research</a>
+    <a class="navbar-brand" style="font-size: 2em">Pakistanis in AI Research</a>
     <div class="nav-items" style="width: 50%">
       <div class="nav-item">
         <i class="fa-solid fa-language"></i>&nbsp;
         <span (click)="changeLang('en')">English</span>
-        |
-        <span (click)="changeLang('ar')">عربي</span>
+        <!-- |
+        <span (click)="changeLang('ar')">عربي</span> -->
       </div>
       <div class="nav-item">
         <span>
-          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai"> <i class="fa-brands fa-github"></i>
+          <a class="nav-link" href="https://github.com/ahmadmustafaanis/Pakistanis-in-ai"> <i
+              class="fa-brands fa-github"></i>
             GitHub</a>
         </span>
       </div>
       <div class="nav-item">
-        <span>
+        <!-- <span>
           <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b"> <i
               class="fa-brands fa-medium"></i> Blog Post</a>
-        </span>
+        </span> -->
       </div>
       <div class="nav-item dropdown" ngbDropdown>
         <span class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -32,7 +33,13 @@
           <i class="fa-solid fa-globe"></i> X in Y Websites
         </span>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown" ngbDropdownMenu>
-          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/" target="_blank">Moroccans in AI</a>
+          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/"
+            target="_blank">Moroccans in AI</a>
+          <a ngbDropdownItem class="dropdown-item" href="https://bkhmsi.github.io/egyptians-in-ai/"
+            target="_blank">Egyptians in AI</a>
+
+          <a ngbDropdownItem class="dropdown-item" href="https://ahmadmustafaanis.github.io/pakistanis-in-ai/"
+            target="_blank">Pakistanis in AI</a>
         </div>
       </div>
     </div>
@@ -49,7 +56,10 @@
           <i class="fa-solid fa-globe"></i> X in Y Websites
         </span>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown" ngbDropdownMenu>
-          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/" target="_blank">Moroccans in AI</a>
+          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/"
+            target="_blank">Moroccans in AI</a>
+          <a ngbDropdownItem class="dropdown-item" href="https://bkhmsi.github.io/egyptians-in-ai/"
+            target="_blank">Egyptians in AI</a>
         </div>
       </div>
       <div class="nav-item">
@@ -87,8 +97,9 @@
 
   <footer class="footer mt-auto py-3">
     <div class="container">
-      <span> Developed and Maintained by <a href="https://bkhmsi.github.io">Badr
-          AlKhamissi</a> | Last Update: 25 July 2023</span>
+      <span> Orignally (Egyptians in AI) Developed by <a href="https://bkhmsi.github.io">Badr
+          AlKhamissi</a> Maintained by <a href="https://twitter.com/AhmadMustafaAn1"> Ahmad Mustafa Anis</a> Last
+        Update: 14 August 2023</span>
       <span style="float: right"><a href="#"> Back to Top <i class="fas fa-arrow-up"></i>
         </a> </span>
     </div>

@@ -1,16 +1,17 @@
-# Egyptians in AI Research
+# Pakistanis in AI Research
 
-Website: https://bkhmsi.github.io/egyptians-in-ai/
+Website: https://ahmadmustafaanis.github.io/Pakistanis-in-ai/
 
-Welcome to Egyptian in AI, a website dedicated to showcasing the profiles of prominent Egyptian researchers in the field of artificial intelligence. 
+Welcome to Pakistanis in AI, a website dedicated to showcasing the profiles of prominent Egyptian researchers in the field of artificial intelligence. 
 
-If you think that someone is missing from our list of featured researchers, we welcome contributions from the community. To be considered for inclusion, the only criteria is that the individual must have an h-index of 5 or higher, as recorded on their Google Scholar profile. You can submit your suggestion by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdLaYBQyOzI5gnlGzwOki3b1TJtFjLUeHUKxkGtXQDhHdSreg/viewform?usp=sf_link), or request updates for existing profiles.
+If you think that someone is missing from our list of featured researchers, we welcome contributions from the community. To be considered for inclusion, the only criteria is that the individual must have an h-index of 5 or higher, as recorded on their Google Scholar profile. You can submit your suggestion by filling out [this form](https://forms.gle/AKFpymhAavJgDK3M9), or request updates for existing profiles.
 
 We hope that you find our website informative and inspiring, and we invite you to explore the profiles of our featured researchers to learn more about their work.
 
 ## Other `X in Y` Websites:
+- [Egpytians in AI Research](https://bkhmsi.github.io/egyptians-in-ai/)
 - [Moroccans in AI Research](https://mohamedelbaha.github.io/moroccans-in-ai/)
-
+- [Pakistanis in AI Research](https://ahmadmustafaanis.github.io/Pakistanis-in-ai/)
 ## Steps to Create Your Own `X in Y` Website
 
 1. Fork this repository: 
