@@ -224,5 +224,29 @@
         ],
         "citedby": 760,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Usman Qayyum",
+        "affiliation": "National Center of Electronics, National University of Science and Technology",
+        "position": "Senior Researcher, Assistant Professor",
+        "hindex": 9,
+        "photo": "./assets/images/usman_q.jpeg",
+        "scholar": "https://scholar.google.com.au/citations?hl=en&user=BF_dYO4AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/usmanqayyumprofile/",
+        "website": "https://usmanqayyum.webs.com/",
+        "twitter": "https://twitter.com/usmanqayyum",
+        "interests": [
+            "Deep Learning",
+            "Robotics",
+            "Computer Vision",
+            "Predictive Analytics",
+            "Graph Neural Networks",
+            "Self Driving Cars",
+            "Visual Navigation and intelligent transportation",
+            "Convex optimization/Global optimization",
+            "Multi-modality data fusion"
+        ],
+        "citedby": 228,
+        "lastupdate": "2023-08-14"
     }
 ]
