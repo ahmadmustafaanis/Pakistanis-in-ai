@@ -119,5 +119,28 @@
         ],
         "citedby": 101,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "YASER AJMAL SHEIKH",
+        "affiliation": "Meta AI, Carnegie Mellon University",
+        "position": "Director of Facebook Reality Labs, Consulting Professor",
+        "hindex": 54,
+        "photo": "./assets/images/yaser sheikh.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=Yd4KvooAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/yaser-sheikh-9847a64/",
+        "website": "https://www.ri.cmu.edu/ri-faculty/yaser-ajmal-sheikh/",
+        "twitter": "https://twitter.com/subail",
+        "interests": [
+            "Human-Centered Robotics",
+            "Social Robots",
+            "Computer Vision",
+            "Sensing & Perception",
+            "3-D Vision and Recognition",
+            "Multisensor Data Fusion",
+            "Sensing and Estimation",
+            "Deep Learning"
+        ],
+        "citedby": 26683,
+        "lastupdate": "2023-08-14"
     }
 ]
