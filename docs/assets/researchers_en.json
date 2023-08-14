@@ -142,5 +142,87 @@
         ],
         "citedby": 26683,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Hafiz Mughees Ahmad",
+        "affiliation": "University of Windsor, i-5O",
+        "position": "PhD Student at University of Windsor, Computer Vision Engineer @ i-50",
+        "hindex": 4,
+        "photo": "./assets/images/mughees.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=uZSLvBIAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/ahmadmughees/",
+        "website": "https://ahmadmughees.github.io/",
+        "twitter": "",
+        "interests": [
+            "Human-Centered Robotics",
+            "Social Robots",
+            "Computer Vision",
+            "Sensing & Perception",
+            "3-D Vision and Recognition",
+            "Multisensor Data Fusion",
+            "Sensing and Estimation",
+            "Deep Learning"
+        ],
+        "citedby": 135,
+        "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Jaleed Khan",
+        "affiliation": "University of Windsor, i-5O",
+        "position": "PhD Student at University of Windsor, Computer Vision Engineer @ i-50",
+        "hindex": 16,
+        "photo": "./assets/images/jaleed.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?user=fQIYWNEAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mjaleedkhan",
+        "website": "https://www.researchgate.net/profile/Jaleed-Khan",
+        "twitter": "",
+        "interests": [
+            "Neurosymbolic AI",
+            "Deep Learning",
+            "Computer Vision",
+            "Knowledge Graphs",
+            "Hyperspectral Image Analysis"
+        ],
+        "citedby": 1290,
+        "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Muhammad Jehanzeb Mirza",
+        "affiliation": "Technical University of Graz",
+        "position": "PhD Student at Technical University of Graz",
+        "hindex": 4,
+        "photo": "./assets/images/jehanzeb.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=cES2rkAAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/jmiemirza/",
+        "website": "https://jmiemirza.github.io/",
+        "twitter": "",
+        "interests": [
+            "Self-Supervised Deep Learning",
+            "Unsupervised Representation Learning",
+            "Point clouds",
+            "MultiModal Deep Learning"
+        ],
+        "citedby": 67,
+        "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Muhammad Usman Rafique",
+        "affiliation": "University of Kentucky, KitWare",
+        "position": "PhD Student at University of Kentucky at MultiModal Vision Research Lab, Senior Research and Development Engineer at KitWare",
+        "hindex": 11,
+        "photo": "./assets/images/usman.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=Q84PBTQAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/m-usmanrafique/",
+        "website": "http://urafique.com/",
+        "twitter": "https://twitter.com/m_usmanrafique",
+        "interests": [
+            "image synthesis",
+            "image understanding",
+            "scene parsing",
+            "segmentation",
+            "MultiModal Deep Learning"
+        ],
+        "citedby": 760,
+        "lastupdate": "2023-08-14"
     }
 ]
