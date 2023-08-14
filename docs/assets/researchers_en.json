@@ -168,8 +168,8 @@
     },
     {
         "name": "Jaleed Khan",
-        "affiliation": "University of Windsor, i-5O",
-        "position": "PhD Student at University of Windsor, Computer Vision Engineer @ i-50",
+        "affiliation": "University of Galaway",
+        "position": "PhD Student at University of Galaway",
         "hindex": 16,
         "photo": "./assets/images/jaleed.jpeg",
         "scholar": "https://scholar.google.com.pk/citations?user=fQIYWNEAAAAJ&hl=en",
@@ -287,6 +287,28 @@
             "Medical Imaging"
         ],
         "citedby": 496,
+        "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Jamal Abdul Nasir",
+        "affiliation": "University of Galway",
+        "position": "Assistant Professor",
+        "hindex": 13,
+        "photo": "./assets/images/jamal.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=V86JSRwAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/jamal-nasir-44153ba/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "Machine Learning",
+            "Text Mining",
+            "Natural Language Processing",
+            "Linked Open Data",
+            "Eye tracking applications"
+        ],
+        "citedby": 752,
         "lastupdate": "2023-08-14"
     }
 ]
