@@ -430,5 +430,41 @@
         ],
         "citedby": 650,
         "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Hazrat Ali",
+        "affiliation": "Hamad Bin Khalifa University",
+        "position": "Researcher in Deep Learning and Medical Imaging",
+        "hindex": 19,
+        "photo": "./assets/images/hazrat_ali.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=XEJyFFgAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/alihazrat",
+        "website": "https://alihazrat.weebly.com/",
+        "twitter": "https://twitter.com/hazrat_ai",
+        "interests": [
+            "Generative AI",
+            "Medical AI",
+            "Deep Learning"
+        ],
+        "citedby": 1289,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Salman ul Hassan Dar",
+        "affiliation": "Hamad Bin Heidelberg University",
+        "position": "Postdoctoral Researcher at Heidelberg University Hospital",
+        "hindex": 12,
+        "photo": "./assets/images/salman_dar.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=ex7cGIwAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/salman-ul-hassan-dar-56790a69/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Medical Image Analysis",
+            "Computer Vision",
+            "Deep Learning"
+        ],
+        "citedby": 1139,
+        "lastupdate": "2023-08-15"
     }
 ]
