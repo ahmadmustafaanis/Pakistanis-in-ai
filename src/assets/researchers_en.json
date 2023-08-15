@@ -310,5 +310,125 @@
         ],
         "citedby": 752,
         "lastupdate": "2023-08-14"
+    },
+    {
+        "name": "Muzammal Naseer",
+        "affiliation": "MBZUAI",
+        "position": "research scientist",
+        "hindex": 12,
+        "photo": "./assets/images/muzammal_naseer.jpeg",
+        "scholar": "https://scholar.google.ch/citations?hl=en&user=tM9xKA8AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/muzammalnaseer/",
+        "website": "https://muzammal-naseer.com/",
+        "twitter": "https://twitter.com/NaseerMuzammal",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "robust visual perception",
+            "temporal perception",
+            "representation learning",
+            "Self-Supervised Deep Learning"
+        ],
+        "citedby": 2250,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Syed Sameed Husain",
+        "affiliation": "University of Surrey",
+        "position": "Lecturer in People-Centred AI",
+        "hindex": 8,
+        "photo": "./assets/images/sameed_husain.jpeg",
+        "scholar": "https://scholar.google.co.uk/citations?hl=en&user=uyxcO-YAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/muzammalnaseer/",
+        "website": "https://www.surrey.ac.uk/people/syed-sameed-husain",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "robust visual perception",
+            "temporal perception",
+            "representation learning",
+            "Self-Supervised Deep Learning"
+        ],
+        "citedby": 315,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Irfan Essa",
+        "affiliation": "Google, Georgia Tech",
+        "position": "Research Scientist, Senior Assosiate Dean, College of Computing",
+        "hindex": 67,
+        "photo": "./assets/images/irfan_essa.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=XM97iScAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/irfanessa/",
+        "website": "http://www.irfanessa.com/",
+        "twitter": "https://twitter.com/irrfaan",
+        "interests": [
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Graphics",
+            "Robotics"
+        ],
+        "citedby": 22758,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Arif Mahmood",
+        "affiliation": "Information Technology University (ITU)",
+        "position": "Professor and Dean, Faculty of Sciences",
+        "hindex": 31,
+        "photo": "./assets/images/arif_mehmood.jpeg",
+        "scholar": "https://scholar.google.com.au/citations?hl=en&user=7jBcPI4AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/arif-mahmood-36875ab1/?originalSubdomain=pk",
+        "website": "https://itu.edu.pk/faculty-itu/dr-arif-mahmood/",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Deep Learning",
+            "Robotics",
+            "Machine Learning"
+        ],
+        "citedby": 3698,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Mazhar Javed Awan",
+        "affiliation": "University of Management and Technology",
+        "position": "Assistant Professor Department of Software Engineering",
+        "hindex": 27,
+        "photo": "./assets/images/aun_irtaza.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?hl=en&user=H8ZmPmAAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "",
+        "website": "https://fms.uettaxila.edu.pk/Profile/aun.irtaza",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Deep Learning",
+            "Image Processing",
+            "Neural Networks",
+            "Fuzzy Logic"
+        ],
+        "citedby": 1831,
+        "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Sajid Ghuffar",
+        "affiliation": "University of St Andrews, Institute of Space Technology (IST)",
+        "position": "Research Fellow, Assistant Professor",
+        "hindex": 14,
+        "photo": "./assets/images/sajid_ghuffar.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=IRbTXOMAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/sajid-ghuffar-18053911?originalSubdomain=pk",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Photogrammetry",
+            "Remote Sensing",
+            "Machine Learning",
+            "Cubesats"
+        ],
+        "citedby": 650,
+        "lastupdate": "2023-08-15"
     }
 ]
