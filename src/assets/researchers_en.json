@@ -466,5 +466,136 @@
         ],
         "citedby": 1139,
         "lastupdate": "2023-08-15"
+    },
+    {
+        "name": "Shibal Ibrahim",
+        "affiliation": "Massachusetts Institute of Technology",
+        "position": "PhD Candidate in Machine Learning @ MIT",
+        "hindex": 3,
+        "photo": "./assets/images/Shibal-Ibrahim.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=_ADL3k8AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/shibal-ibrahim-70097b77/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Interpretable Modeling",
+            "Sparse Modeling"
+        ],
+        "citedby": 25,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Basim Azam",
+        "affiliation": "Griffith University",
+        "position": "PhD Student at Griffith University",
+        "hindex": 3,
+        "photo": "./assets/images/basim Azam.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=_ADL3k8AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/basimazam/?originalSubdomain=au",
+        "website": "https://basimazam.com/",
+        "twitter": "https://twitter.com/muhammadbasim0?lang=en",
+        "interests": [
+            "Deep Learning",
+            "Image Parsing",
+            "Semantic Segmentation"
+        ],
+        "citedby": 23,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Usman Ahmed",
+        "affiliation": "Western Norway University of Applied Sciences",
+        "position": "PhD student at Western Norway University of Applied Sciences",
+        "hindex": 3,
+        "photo": "./assets/images/usman ahmed.jpg",
+        "scholar": "https://scholar.google.com/citations?user=CCckbEUAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/basimazam/?originalSubdomain=au",
+        "website": "https://iusmanahmed.github.io/",
+        "twitter": "https://twitter.com/usmanahmed189?t=0739IXpmsGj8tjl0-1CbRg&s=09",
+        "interests": [
+            "Deep Learning",
+            "Image Parsing",
+            "Semantic Segmentation"
+        ],
+        "citedby": 23,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Maaz Amjad",
+        "affiliation": "The University of Texas at Austin",
+        "position": "Postdoctoral Fellow at The University of Texas at Austin",
+        "hindex": 9,
+        "photo": "./assets/images/maaz amjad.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=7k_PAPMAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/maazmjad/",
+        "website": "https://maazamjad.github.io/maaz/",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Fact Checking",
+            "Deception Detection",
+            "Fake News Detection",
+            "Disinformation"
+        ],
+        "citedby": 292,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Shujaat Khan",
+        "affiliation": "King Fahd University of Petroleum and Minerals (KFUPM)",
+        "position": "Assistant Professor in Department of Computer Engineering",
+        "hindex": 15,
+        "photo": "./assets/images/shujaat Khan.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?hl=en&user=ih1YHj0AAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/shujaat-khan/",
+        "website": "https://sites.google.com/view/shujaatkhan",
+        "twitter": "",
+        "interests": [
+            "Medical Imaging",
+            "Signal Processing",
+            "Computational Biology",
+            "Machine Learning",
+            "Adaptive Filtering"
+        ],
+        "citedby": 806,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Muhammad Sharjeel",
+        "affiliation": "COMSATS University Islamabad, Lahore Campus",
+        "position": "Assistant Professor",
+        "hindex": 4,
+        "photo": "./assets/images/muhammad sharjeel.jpeg",
+        "scholar": "https://scholar.google.co.uk/citations?hl=en&user=xUF3l9gAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/muhammad-sharjeel-8512796b/?originalSubdomain=pk",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Urdu Natural Language Processing",
+            "Cross Language Text Reuse and Plagiarism Detection",
+            "Machine Learning"
+        ],
+        "citedby": 100,
+        "lastupdate": "2023-08-27"
+    },
+    {
+        "name": "Jamil Ahmad",
+        "affiliation": "MBZUAI",
+        "position": "Researcher",
+        "hindex": 31,
+        "photo": "./assets/images/jamil ahmad.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?hl=en&user=7dw-9YgAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/jamilahmadicp/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Deep Learning",
+            "Image Processing"
+        ],
+        "citedby": 4286,
+        "lastupdate": "2023-08-27"
     }
 ]

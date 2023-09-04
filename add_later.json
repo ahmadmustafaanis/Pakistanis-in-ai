@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Aneela Zameer",
+        "affiliation": "Pakistan Institute of Engineering and Applied Sciences",
+        "position": "Head Department of Computer and Information Sciences, Professor at PIEAS",
+        "hindex": 28,
+        "photo": "./assets/images/aneela zameer.jpeg",
+        "scholar": "https://scholar.google.com.pk/citations?hl=en&user=UbKFjswAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/aneela-zameer-47105b25/?originalSubdomain=pk",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Evolutionary Optimization Techniques",
+            "Ultrasonic Transducer design",
+            "Machine Learning",
+            "Modeling & Simulation"
+        ],
+        "citedby": 2825,
+        "lastupdate": "2023-08-27"
+    }
+]
